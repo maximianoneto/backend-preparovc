@@ -98,15 +98,3 @@ PUT /localization/:localizationId: atualiza os dados de localização de um usu�
 DELETE /localization/:localizationId: exclui os dados de localização de um usuário específico.
 ```
 
-# Como contribuir
-Se você quiser contribuir com este projeto, siga as etapas abaixo:
-
-Faça um fork deste repositório.
-
-Crie um branch para sua feature: git checkout -b my-feature.
-
-Faça as alterações necessárias e faça commit das mudanças: git commit -m "feat: My new feature".
-
-Envie para o branch: git push origin my-feature.
-
-Abra um Pull Request.
